@@ -1,4 +1,4 @@
-# ASP.NET Core (RC2) Dev-Environment using Docker
+# ASP.NET Core (RC2) Dev-Environment using Docker and dotnet-watch
 
 Execute development container using ```cd docker-dev && docker-compose up --build```. 
 This container will use dotnet-watch for live updates.
