@@ -1,3 +1,8 @@
+# ASP.NET Core (RC2) Dev-Environment using Docker
+
+Execute development container using ```cd docker-dev && docker-compose up --build```. 
+This container will use dotnet-watch for live updates.
+
 # Welcome to ASP.NET Core
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
